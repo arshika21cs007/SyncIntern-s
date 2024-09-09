@@ -1,3 +1,4 @@
+# SyncInterns
 # Internship Projects
 
 **Completed Tasks During Internship**
@@ -42,7 +43,7 @@ During my internship, I successfully completed four key projects that showcase m
   - Course listings and details
   - User registration and login
   - Interactive quizzes and progress tracking
-- **Technologies Used:** HTML, CSS, JavaScript, React (if applicable)
+- **Technologies Used:** HTML, CSS, JavaScript
 
 ## Skills Acquired
 
